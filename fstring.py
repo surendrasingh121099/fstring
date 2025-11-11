@@ -1,3 +1,10 @@
-Name=input("enter you name :")
-age=int(input("enter you age :"))
-print(f"i am {Name} and my age is {age}")
+#Name=input("enter you name :")
+#age=int(input("enter you age :"))
+#print(f"i am {Name} and my age is {age}")
+#sum in input 
+x=input("enter the first number : ")
+y=input("enter the second number : ")
+z=input("enter the third number : ")
+#print(x+y+z)
+print(int(x) + int(y) + int(z))
+print(float(x) + float(y) + float(z))
